@@ -1,6 +1,7 @@
 <?php
 
 namespace ShwaleeTempconv;
+use InvalidArgumentException;
 
 class TemperatureConverter
 {
