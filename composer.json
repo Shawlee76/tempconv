@@ -1,0 +1,19 @@
+{
+    "name": "shawl/tempconv",
+    "description": "Conversion de la temperature de Celcus en Farenheit et vice-versa",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shawl\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Charlie NOIROT-RATHAR",
+            "email": "shawlee76@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
